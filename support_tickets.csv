@@ -1,0 +1,84 @@
+message,category
+I was charged twice for my subscription,Billing Issue
+I have not received my refund yet,Billing Issue
+Why was extra money deducted from my account?,Billing Issue
+My payment failed but amount was deducted,Billing Issue
+I want to cancel my subscription and get a refund,Billing Issue
+I was billed after cancelling my plan,Billing Issue
+Incorrect invoice amount shown,Billing Issue
+My credit card was charged without notice,Billing Issue
+Please update my billing address,Billing Issue
+I need a copy of my invoice,Billing Issue
+Payment is not going through,Billing Issue
+Refund status is not updated,Billing Issue
+I was charged for a service I did not use,Billing Issue
+Why is my monthly fee higher this time?,Billing Issue
+Double payment has been deducted,Billing Issue
+I want to change my payment method,Billing Issue
+Subscription renewal amount is incorrect,Billing Issue
+Late fee has been applied wrongly,Billing Issue
+Auto debit failed but money was taken,Billing Issue
+I need clarification about my bill,Billing Issue
+
+The app keeps crashing when I open it,Technical Issue
+Website is not loading properly,Technical Issue
+I am facing error 404 on the dashboard,Technical Issue
+The system is running very slow,Technical Issue
+Unable to upload files,Technical Issue
+Video is not playing on the platform,Technical Issue
+App freezes during checkout,Technical Issue
+Getting server error while logging in,Technical Issue
+Notification feature is not working,Technical Issue
+Search function is broken,Technical Issue
+Page keeps refreshing automatically,Technical Issue
+I cannot download the report,Technical Issue
+Mobile app is not syncing data,Technical Issue
+There is a bug in the latest update,Technical Issue
+Audio is not working in meetings,Technical Issue
+I am getting unexpected error messages,Technical Issue
+System logs me out automatically,Technical Issue
+The submit button is not responding,Technical Issue
+Integration with API is failing,Technical Issue
+Website layout is distorted on mobile,Technical Issue
+
+I forgot my password,Account Issue
+Unable to login to my account,Account Issue
+My account is locked,Account Issue
+How do I reset my password?,Account Issue
+I want to change my email address,Account Issue
+My account was suspended without reason,Account Issue
+Two-factor authentication is not working,Account Issue
+I cannot verify my account,Account Issue
+Update my contact details,Account Issue
+Delete my account permanently,Account Issue
+Username is already taken error,Account Issue
+I did not receive account verification email,Account Issue
+Profile picture is not updating,Account Issue
+My account was hacked,Account Issue
+Change my registered phone number,Account Issue
+Account settings page is not accessible,Account Issue
+I want to deactivate my account,Account Issue
+Cannot update my profile information,Account Issue
+Login OTP is not received,Account Issue
+My account shows incorrect information,Account Issue
+
+How can I upgrade my plan?,General Query
+Do you offer student discounts?,General Query
+What features are included in premium?,General Query
+How does the free trial work?,General Query
+Where can I find your pricing details?,General Query
+What payment methods do you accept?,General Query
+Is there a mobile app available?,General Query
+How to contact customer support?,General Query
+What is your refund policy?,General Query
+Do you provide enterprise solutions?,General Query
+Can I use the service internationally?,General Query
+What are your working hours?,General Query
+Is there any referral program?,General Query
+How secure is my data?,General Query
+Do you offer annual subscription?,General Query
+Where can I download the app?,General Query
+Is technical support available 24/7?,General Query
+How to change language settings?,General Query
+What browsers are supported?,General Query
+Can I pause my subscription?,General Query
