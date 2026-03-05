@@ -1,84 +1,164 @@
 message,category
 I was charged twice for my subscription,Billing Issue
-I have not received my refund yet,Billing Issue
-Why was extra money deducted from my account?,Billing Issue
-My payment failed but amount was deducted,Billing Issue
-I want to cancel my subscription and get a refund,Billing Issue
+Refund not received yet,Billing Issue
+Incorrect invoice amount,Billing Issue
+Payment failed but money deducted,Billing Issue
+Need refund for cancelled order,Billing Issue
+Subscription renewal charged incorrectly,Billing Issue
+Why was I billed extra this month?,Billing Issue
+Unable to download invoice,Billing Issue
+My credit card was declined,Billing Issue
+Auto debit happened without permission,Billing Issue
+Billing address update failed,Billing Issue
+Charged after cancellation,Billing Issue
+Payment confirmation not received,Billing Issue
+GST invoice not generated,Billing Issue
+Duplicate payment detected,Billing Issue
+I need a refund for the last transaction,Billing Issue
+Why am I charged for a free trial?,Billing Issue
+Payment page shows error,Billing Issue
+My subscription payment failed,Billing Issue
 I was billed after cancelling my plan,Billing Issue
-Incorrect invoice amount shown,Billing Issue
-My credit card was charged without notice,Billing Issue
-Please update my billing address,Billing Issue
-I need a copy of my invoice,Billing Issue
-Payment is not going through,Billing Issue
-Refund status is not updated,Billing Issue
-I was charged for a service I did not use,Billing Issue
-Why is my monthly fee higher this time?,Billing Issue
-Double payment has been deducted,Billing Issue
-I want to change my payment method,Billing Issue
-Subscription renewal amount is incorrect,Billing Issue
-Late fee has been applied wrongly,Billing Issue
-Auto debit failed but money was taken,Billing Issue
-I need clarification about my bill,Billing Issue
+Refund status update please,Billing Issue
+I cannot see my payment receipt,Billing Issue
+My bank shows payment but account not updated,Billing Issue
+Extra charges on my account,Billing Issue
+Billing cycle is incorrect,Billing Issue
+Why did my card get charged twice?,Billing Issue
+Please correct my invoice,Billing Issue
+Subscription fee is wrong,Billing Issue
+Money deducted but order not confirmed,Billing Issue
+Need billing clarification,Billing Issue
+Incorrect tax added to my invoice,Billing Issue
+Payment deducted but order cancelled,Billing Issue
+Unable to update billing information,Billing Issue
+Wrong billing amount shown,Billing Issue
+My invoice is missing details,Billing Issue
+Subscription price increased suddenly,Billing Issue
+Refund taking too long,Billing Issue
+Payment declined but money held,Billing Issue
+Unexpected charge on my card,Billing Issue
+Need help with payment issue,Billing Issue
 
-The app keeps crashing when I open it,Technical Issue
-Website is not loading properly,Technical Issue
-I am facing error 404 on the dashboard,Technical Issue
-The system is running very slow,Technical Issue
-Unable to upload files,Technical Issue
-Video is not playing on the platform,Technical Issue
-App freezes during checkout,Technical Issue
-Getting server error while logging in,Technical Issue
-Notification feature is not working,Technical Issue
-Search function is broken,Technical Issue
-Page keeps refreshing automatically,Technical Issue
-I cannot download the report,Technical Issue
-Mobile app is not syncing data,Technical Issue
-There is a bug in the latest update,Technical Issue
-Audio is not working in meetings,Technical Issue
-I am getting unexpected error messages,Technical Issue
-System logs me out automatically,Technical Issue
-The submit button is not responding,Technical Issue
-Integration with API is failing,Technical Issue
-Website layout is distorted on mobile,Technical Issue
+App keeps crashing when I open it,Technical Issue
+Unable to login to the app,Technical Issue
+Website is not loading,Technical Issue
+Error 404 while accessing dashboard,Technical Issue
+Feature not working properly,Technical Issue
+App is very slow,Technical Issue
+System throws unknown error,Technical Issue
+Upload function not responding,Technical Issue
+Video not playing,Technical Issue
+Notification not working,Technical Issue
+Server timeout error,Technical Issue
+Page freezes frequently,Technical Issue
+Cannot reset password link broken,Technical Issue
+Software installation failed,Technical Issue
+App update not installing,Technical Issue
+App closes automatically,Technical Issue
+Screen stuck on loading page,Technical Issue
+Image upload failing,Technical Issue
+Cannot connect to server,Technical Issue
+Login page keeps refreshing,Technical Issue
+Website showing blank page,Technical Issue
+Error while submitting form,Technical Issue
+Application stuck after login,Technical Issue
+Audio not working in the app,Technical Issue
+Download button not working,Technical Issue
+Link not opening correctly,Technical Issue
+Database error displayed,Technical Issue
+API response error,Technical Issue
+App crashes during payment,Technical Issue
+Cannot access dashboard features,Technical Issue
+Page takes too long to load,Technical Issue
+Search feature not working,Technical Issue
+File upload failing repeatedly,Technical Issue
+Cannot play videos in the app,Technical Issue
+Error message appears on startup,Technical Issue
+Settings page not loading,Technical Issue
+Unable to sync data,Technical Issue
+App logs me out automatically,Technical Issue
+Page layout broken on mobile,Technical Issue
+Server connection lost,Technical Issue
 
-I forgot my password,Account Issue
-Unable to login to my account,Account Issue
 My account is locked,Account Issue
-How do I reset my password?,Account Issue
-I want to change my email address,Account Issue
-My account was suspended without reason,Account Issue
-Two-factor authentication is not working,Account Issue
-I cannot verify my account,Account Issue
-Update my contact details,Account Issue
-Delete my account permanently,Account Issue
-Username is already taken error,Account Issue
-I did not receive account verification email,Account Issue
-Profile picture is not updating,Account Issue
-My account was hacked,Account Issue
-Change my registered phone number,Account Issue
-Account settings page is not accessible,Account Issue
-I want to deactivate my account,Account Issue
-Cannot update my profile information,Account Issue
-Login OTP is not received,Account Issue
-My account shows incorrect information,Account Issue
+Forgot my password,Account Issue
+Unable to change email address,Account Issue
+Profile information not updating,Account Issue
+Need to delete my account,Account Issue
+Account verification email not received,Account Issue
+Account suspended without reason,Account Issue
+Cannot update phone number,Account Issue
+Username already taken error,Account Issue
+Two factor authentication not working,Account Issue
+Cannot access account settings,Account Issue
+Password reset link expired,Account Issue
+How to activate my account?,Account Issue
+Account shows incorrect details,Account Issue
+Login OTP not received,Account Issue
+Unable to update profile picture,Account Issue
+My account shows wrong username,Account Issue
+Email verification link not working,Account Issue
+Cannot logout from account,Account Issue
+Need help recovering account,Account Issue
+Account shows unauthorized login,Account Issue
+I want to change my username,Account Issue
+Cannot access my old account,Account Issue
+Account access denied error,Account Issue
+My account details disappeared,Account Issue
+Need to merge two accounts,Account Issue
+Account security alert received,Account Issue
+Password update failed,Account Issue
+Unable to verify my phone number,Account Issue
+Account locked after multiple attempts,Account Issue
+My profile picture won't update,Account Issue
+Unable to change my password,Account Issue
+Account recovery email not sent,Account Issue
+Cannot login with correct password,Account Issue
+My account was disabled suddenly,Account Issue
+Login verification failed,Account Issue
+Need help updating account details,Account Issue
+Account shows wrong email address,Account Issue
+Account shows suspicious activity,Account Issue
+Cannot enable two factor authentication,Account Issue
 
-How can I upgrade my plan?,General Query
-Do you offer student discounts?,General Query
-What features are included in premium?,General Query
-How does the free trial work?,General Query
-Where can I find your pricing details?,General Query
-What payment methods do you accept?,General Query
-Is there a mobile app available?,General Query
-How to contact customer support?,General Query
-What is your refund policy?,General Query
-Do you provide enterprise solutions?,General Query
-Can I use the service internationally?,General Query
 What are your working hours?,General Query
-Is there any referral program?,General Query
-How secure is my data?,General Query
-Do you offer annual subscription?,General Query
+How to contact support?,General Query
+Do you offer discounts?,General Query
+Where is your company located?,General Query
+How to upgrade my plan?,General Query
+Explain your pricing plans,General Query
+Do you have a mobile app?,General Query
+How to track my order?,General Query
+What payment methods are accepted?,General Query
+Is there a free trial?,General Query
+How to change subscription plan?,General Query
+Do you provide customer support 24/7?,General Query
+Can I use this internationally?,General Query
 Where can I download the app?,General Query
-Is technical support available 24/7?,General Query
-How to change language settings?,General Query
-What browsers are supported?,General Query
-Can I pause my subscription?,General Query
+How to refer a friend?,General Query
+Do you offer student discounts?,General Query
+Is your service available globally?,General Query
+How to cancel my subscription?,General Query
+Where can I read documentation?,General Query
+How can I update my plan?,General Query
+Do you provide API access?,General Query
+Is there a trial version available?,General Query
+Where can I see product updates?,General Query
+How do I contact sales team?,General Query
+Do you have training materials?,General Query
+Can I use the platform for free?,General Query
+Is there a desktop application?,General Query
+How to get started with the service?,General Query
+Do you provide onboarding support?,General Query
+Where can I see pricing details?,General Query
+Do you provide tutorials?,General Query
+Where can I read FAQs?,General Query
+Do you have customer community forums?,General Query
+How do I contact technical support?,General Query
+Where can I see new features?,General Query
+Can I integrate with other tools?,General Query
+Do you support multiple languages?,General Query
+How to upgrade to premium?,General Query
+Where can I download updates?,General Query
+How to learn more about your services?,General Query
